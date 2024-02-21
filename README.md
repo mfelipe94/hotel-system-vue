@@ -1,6 +1,10 @@
-# Holigay
+# Hotel June Malibu
 
 This template should help get you started developing with Vue 3 in Vite.
+
+## Figma Design
+
+[Check this Design](https://www.figma.com/file/nJOYOCYyxrxSWi7YC5gzjQ/Vue?type=design&node-id=0-1&mode=design)
 
 ## Recommended IDE Setup
 
